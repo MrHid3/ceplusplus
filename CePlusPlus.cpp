@@ -68,3 +68,4 @@ int main()
     zwrot(0);   // Upośledzone `return 0;`
 }
 
+// Zabijcie mnie
