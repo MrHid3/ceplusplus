@@ -1,4 +1,3 @@
 # ceplusplus
 
-Polski CePlusPlus
-A przynajmniej takie funkcje jak printf czy coś 
+Polski CePlusPlus, a przynajmniej takie funkcje jak printf czy coś 
