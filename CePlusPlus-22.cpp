@@ -1,4 +1,6 @@
 #include <iostream>
+#include <stdlib.h>
+#include <time.h>
 
 #define niePodpisany unsigned
 #define zmiennaCalkowita int
@@ -40,7 +42,7 @@ using namespace std;
 zmiennaCalkowita glowny()
 {
 
-    wypisz << "Witaj swiecie!" << nowaLinia;
-
+    // Kod tutaj
+    
     zwrot 0;
 }
